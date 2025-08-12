@@ -16,12 +16,12 @@ It displays one question at a time, lets the user select an answer, highlights c
 
 ## --- 📸 Preview
 <!-- Add your own screenshot -->
-![Quiz App Screenshot](./home/hassanraza/react-auth/Quiz/Screenshot from 2025-08-12 20-00-34.png)
+![Quiz App Screenshot](./screening.png)
 
 ---
 
 ## --- 🌐 Live Demo
-👉 [Click here to try the app](https://your-live-demo-link.com)
+👉 [Click here to try the app](https://interactivequix.netlify.app/)
 
 ---
 
