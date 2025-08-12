@@ -16,7 +16,7 @@ It displays one question at a time, lets the user select an answer, highlights c
 
 ## --- 📸 Preview
 <!-- Add your own screenshot -->
-![Quiz App Screenshot](./quiz-preview.png)
+![Quiz App Screenshot](./home/hassanraza/react-auth/Quiz/Screenshot from 2025-08-12 20-00-34.png)
 
 ---
 
@@ -36,7 +36,6 @@ It displays one question at a time, lets the user select an answer, highlights c
 │── index.html # Main HTML structure
 │── style.css # Styling for quiz
 │── script.js # Core JavaScript logic
-│── questions.js # Quiz questions data
 │── README.md # Documentation
 
 

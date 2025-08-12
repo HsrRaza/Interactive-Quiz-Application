@@ -1,38 +1,47 @@
 const questions = [
     {
-        question: "Which is the largest animal in the world",
+        question: "Which symbol is used for single-line comments in JavaScript?",
         answers: [
-            { text: "shark", correct: false },
-            { text: "Blue Whale", correct: true },
-            { text: "Elephant", correct: false },
-            { text: "Girafee", correct: false },
+            { text: "//", correct: true },
+            { text: "/*", correct: false },
+            { text: "<!--", correct: false },
+            { text: "#", correct: false },
         ]
     },
     {
-        question: "Which is the smallest country in the world",
+        question: "How do you declare a variable in JavaScript?",
         answers: [
-            { text: "Vatican City", correct: true },
-            { text: "Bhutan", correct: false },
-            { text: "Nepal", correct: false },
-            { text: "Sri Lanka", correct: false },
+            { text: "var myVar;", correct: false },
+            { text: "let myVar;", correct: false },
+            { text: "const myVar;", correct: false },
+            { text: "All of the above", correct: true },
         ]
     },
     {
-        question: "Which is the largest desert in the world",
+        question: "Which method is used to print output in the console?",
         answers: [
-            { text: "Kalahari", correct: false },
-            { text: "Gobhi", correct: false },
-            { text: "Sahara", correct: false },
-            { text: "Antarctica", correct: true },
+            { text: "print()", correct: false },
+            { text: "console.log()", correct: true },
+            { text: "log.print()", correct: false },
+            { text: "output()", correct: false },
         ]
     },
     {
-        question: "Which is the smallest continent  in the world",
+        question: "Which data type is NOT supported in JavaScript?",
         answers: [
-            { text: "Asia", correct: false },
-            { text: "Austallia", correct: true },
-            { text: "Arctic", correct: false },
-            { text: "Africa", correct: false },
+            { text: "Number", correct: false },
+            { text: "String", correct: false },
+            { text: "Character", correct: true },
+            { text: "Boolean", correct: false },
+        ]
+    },
+    {
+        question: "What is the output of: console.log(typeof null)?",
+        answers: [
+            { text: "null", correct: false },
+            { text: "undefined", correct: false },
+            { text: "object", correct: true },
+            { text: "string", correct: false },
         ]
     },
 ];
