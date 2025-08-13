@@ -42,7 +42,7 @@ It displays one question at a time, lets the user select an answer, highlights c
 ---
 
 ## --- ⚙️ How It Works
-1. **Load questions** from `questions.js`  
+1. **Load questions** from `script.js`  
 2. **Render** the current question & answer options  
 3. **Wait** for the user to click an answer  
 4. **Highlight** correct/incorrect choices  
@@ -54,7 +54,7 @@ It displays one question at a time, lets the user select an answer, highlights c
 ## --- 🚀 Installation & Usage
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/HsrRaza/Interactive-Quiz-Application
 
 
 --- 📝 Example Question Data
